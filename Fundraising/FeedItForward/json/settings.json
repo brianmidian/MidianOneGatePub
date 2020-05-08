@@ -1,0 +1,90 @@
+{
+  "CampaignID": "035d5773-dbd2-4dd7-8aa9-a039a492e856",
+  "TotalAmountHeaderText": "Total Raised",
+  "TotalAmountTargetHeaderText": "Goal",
+  "FooterLine1": "",
+  "FooterLine2": "",
+  "DemoMode":  false,
+  "DonationOption": [
+    {
+      "DonationAmount": 10.0,
+      "DonationOptionText": "Snack",
+      "DonationDetailText1": "",
+      "DonationDetailText2": "",
+      "DonationDetailText3": "",
+      "DonationDetailText4": ""
+    },
+    {
+      "DonationAmount": 20.0,
+      "DonationOptionText": "Breakfast",
+      "DonationDetailText1": "",
+      "DonationDetailText2": "",
+      "DonationDetailText3": "",
+      "DonationDetailText4": ""
+    },
+    {
+      "DonationAmount": 50.0,
+      "DonationOptionText": "Lunch",
+      "DonationDetailText1": "",
+      "DonationDetailText2": "",
+      "DonationDetailText3": "",
+      "DonationDetailText4": ""
+    },
+    {
+      "DonationAmount": 100.0,
+      "DonationOptionText": "Dinner",
+      "DonationDetailText1": "",
+      "DonationDetailText2": "",
+      "DonationDetailText3": "",
+      "DonationDetailText4": ""
+    },
+    {
+      "DonationAmount": 500.0,
+      "DonationOptionText": "Feast",
+      "DonationDetailText1": "$500+ (includes gift)",
+      "DonationDetailText2": "",
+      "DonationDetailText3": "",
+      "DonationDetailText4": ""
+    }
+    //{
+    //  "DonationAmount": 60.0,
+    //  "DonationOptionText": "Donation Option 6",
+    //  "DonationDetailText1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    //  "DonationDetailText2": "Pellentesque eleifend magna quis dolor elementum bibendum. Proin sed velit vitae orci cursus dapibus. Morbi eu rhoncus leo, non ultricies diam. Aliquam egestas fringilla lorem nec viverra.",
+    //  "DonationDetailText3": "Nunc eu neque in urna interdum ultrices eu eu lorem. Morbi sodales semper laoreet. Vivamus metus nisl, luctus a aliquet sit amet, vehicula et est.",
+    //  "DonationDetailText4": "Sed gravida elit vestibulum ex tristique, ac lobortis dolor iaculis. Nunc magna erat, auctor ac massa non, accumsan auctor velit."
+    //},
+    //{
+    //  "DonationAmount": 70.0,
+    //  "DonationOptionText": "Donation Option 7",
+    //  "DonationDetailText1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    //  "DonationDetailText2": "Pellentesque eleifend magna quis dolor elementum bibendum. Proin sed velit vitae orci cursus dapibus. Morbi eu rhoncus leo, non ultricies diam. Aliquam egestas fringilla lorem nec viverra.",
+    //  "DonationDetailText3": "Nunc eu neque in urna interdum ultrices eu eu lorem. Morbi sodales semper laoreet. Vivamus metus nisl, luctus a aliquet sit amet, vehicula et est.",
+    //  "DonationDetailText4": "Sed gravida elit vestibulum ex tristique, ac lobortis dolor iaculis. Nunc magna erat, auctor ac massa non, accumsan auctor velit."
+    //},
+    //{
+    //  "DonationAmount": 80.0,
+    //  "DonationOptionText": "Donation Option 8",
+    //  "DonationDetailText1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    //  "DonationDetailText2": "Pellentesque eleifend magna quis dolor elementum bibendum. Proin sed velit vitae orci cursus dapibus. Morbi eu rhoncus leo, non ultricies diam. Aliquam egestas fringilla lorem nec viverra.",
+    //  "DonationDetailText3": "Nunc eu neque in urna interdum ultrices eu eu lorem. Morbi sodales semper laoreet. Vivamus metus nisl, luctus a aliquet sit amet, vehicula et est.",
+    //  "DonationDetailText4": "Sed gravida elit vestibulum ex tristique, ac lobortis dolor iaculis. Nunc magna erat, auctor ac massa non, accumsan auctor velit."
+    //},
+    //{
+    //  "DonationAmount": 90.0,
+    //  "DonationOptionText": "Donation Option 9",
+    //  "DonationDetailText1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    //  "DonationDetailText2": "Pellentesque eleifend magna quis dolor elementum bibendum. Proin sed velit vitae orci cursus dapibus. Morbi eu rhoncus leo, non ultricies diam. Aliquam egestas fringilla lorem nec viverra.",
+    //  "DonationDetailText3": "Nunc eu neque in urna interdum ultrices eu eu lorem. Morbi sodales semper laoreet. Vivamus metus nisl, luctus a aliquet sit amet, vehicula et est.",
+    //  "DonationDetailText4": "Sed gravida elit vestibulum ex tristique, ac lobortis dolor iaculis. Nunc magna erat, auctor ac massa non, accumsan auctor velit."
+    //},
+    //{
+    //  "DonationAmount": 100.0,
+    //  "DonationOptionText": "Donation Option 10",
+    //  "DonationDetailText1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    //  "DonationDetailText2": "Pellentesque eleifend magna quis dolor elementum bibendum. Proin sed velit vitae orci cursus dapibus. Morbi eu rhoncus leo, non ultricies diam. Aliquam egestas fringilla lorem nec viverra.",
+    //  "DonationDetailText3": "Nunc eu neque in urna interdum ultrices eu eu lorem. Morbi sodales semper laoreet. Vivamus metus nisl, luctus a aliquet sit amet, vehicula et est.",
+    //  "DonationDetailText4": "Sed gravida elit vestibulum ex tristique, ac lobortis dolor iaculis. Nunc magna erat, auctor ac massa non, accumsan auctor velit."
+    //}
+  ]
+}

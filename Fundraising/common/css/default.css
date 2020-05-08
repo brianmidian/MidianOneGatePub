@@ -1,0 +1,27 @@
+﻿.PanelWaitPopup {
+    text-align: center;
+    vertical-align: middle;
+    background-color: White;
+    width: 200px;
+    height: 100px;
+}
+
+.PanelWaitPopupBackground {
+    background-color: gray;
+    filter: alpha(opacity=70);
+    opacity: 0.7;
+}
+
+.ValidationSummaryContainer {
+    width: 600px;
+    margin-left: 20%;
+    margin-top: 20px;
+    float: left;
+}
+
+.ProcessingErrorContainer {
+    width: 100%;
+    text-align: center;
+    float: left;
+    margin-bottom: 20px;
+}

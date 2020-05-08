@@ -1,0 +1,31 @@
+﻿body {
+    font-family: 'Roboto', 'Open Sans', Arial, Helvetica, sans-serif;
+    background-color: #D1D7DC;
+}
+
+.PageContainer {
+    margin: 0 auto;
+    width: 800px;
+    text-align: left;
+    padding:20px;
+}
+
+.DonationCompleteHeader {
+    width: 100%;
+    text-align: center;
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+.DonationReceiptLine{
+    width:100%;
+    padding: 10px 0px 10px 0px;
+}
+
+.DonationReceiptLabelContainer{
+    float:left;
+    font-weight:bold;
+}
+.DonationReceiptDataContainer{
+    float:left;
+}
